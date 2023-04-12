@@ -1,6 +1,7 @@
 package com.universal_yazilim.bid.ysm.gateway_app.controller;
 
 import com.google.gson.JsonElement;
+import com.universal_yazilim.bid.ysm.gateway_app.model.service.AbstractTransactionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
